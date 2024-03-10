@@ -1,2 +1,12 @@
 # Turtle-crossing-game
 Trying to cross a road with passing cars. Demonstrated with python classes and turtle library
+
+
+Steps of the problem:
+1. Pedestrian that crosses
+2. Randomly generated cars
+3. Detect collision with a car or cars
+4. After the player crosses the screen to reach the other side of the screen, new level begins
+5. Send the turtle back to its place
+6. Increase the speed of cars
+7. Display Game over after collision with a car
